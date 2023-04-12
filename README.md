@@ -1,2 +1,2 @@
 My first readme
-secong git task
+second git task
